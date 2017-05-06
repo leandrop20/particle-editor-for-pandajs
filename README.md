@@ -1,1 +1,1 @@
-# particle editor for pandajs
+# particle-editor-for-pandajs
